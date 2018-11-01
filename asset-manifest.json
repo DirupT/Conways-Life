@@ -1,13 +1,13 @@
 {
-  "main.css": "/Conways-Life/static/css/main.20a5a1d2.chunk.css",
-  "main.js": "/Conways-Life/static/js/main.beb36ccb.chunk.js",
-  "main.js.map": "/Conways-Life/static/js/main.beb36ccb.chunk.js.map",
+  "main.css": "/Conways-Life/static/css/main.c4617e97.chunk.css",
+  "main.js": "/Conways-Life/static/js/main.720e9ebd.chunk.js",
+  "main.js.map": "/Conways-Life/static/js/main.720e9ebd.chunk.js.map",
   "static/js/1.32ac50fe.chunk.js": "/Conways-Life/static/js/1.32ac50fe.chunk.js",
   "static/js/1.32ac50fe.chunk.js.map": "/Conways-Life/static/js/1.32ac50fe.chunk.js.map",
   "runtime~main.js": "/Conways-Life/static/js/runtime~main.a7d533ab.js",
   "runtime~main.js.map": "/Conways-Life/static/js/runtime~main.a7d533ab.js.map",
-  "static/css/main.20a5a1d2.chunk.css.map": "/Conways-Life/static/css/main.20a5a1d2.chunk.css.map",
+  "static/css/main.c4617e97.chunk.css.map": "/Conways-Life/static/css/main.c4617e97.chunk.css.map",
   "index.html": "/Conways-Life/index.html",
-  "precache-manifest.f504c9ac4591fa53b9ec744040378fa6.js": "/Conways-Life/precache-manifest.f504c9ac4591fa53b9ec744040378fa6.js",
+  "precache-manifest.2ae280e90b25837d63d516d06fb9e722.js": "/Conways-Life/precache-manifest.2ae280e90b25837d63d516d06fb9e722.js",
   "service-worker.js": "/Conways-Life/service-worker.js"
 }
